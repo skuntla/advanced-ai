@@ -63,8 +63,8 @@ Give a coding agent the *scenario* and ask it to propose three designs, their as
 ## References (read in order)
 - [Primary reference](https://learn.microsoft.com/en-us/azure/search/hybrid-search-overview)
 - [Pillar reference](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
-- [Lesson format](../../../../00-start-here/LEARNING-METHOD.md)
-- [Deep-dive lesson template](../../../../00-start-here/TEMPLATES.md)
+- [Lesson format](../../../00-start-here/LEARNING-METHOD.md)
+- [Deep-dive lesson template](../../../00-start-here/TEMPLATES.md)
 
 ## Completion gate
 Mark **learned** only after explaining it unassisted, solving two unseen changed-constraint scenarios, and producing verification evidence. Reading and AI-generated summaries alone do not count.
