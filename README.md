@@ -12,6 +12,7 @@ This repository is the long-term home for preparing toward **Senior/Staff/Princi
 **Locked** means these 55 indexed areas and their IDs remain stable. Extend subtopics and references as the field evolves; record intentional taxonomy changes in [CHANGELOG](00-start-here/CHANGELOG.md). No framework, benchmark or vendor is permanently endorsed.
 
 ## Start here
+0. **[Chat-first, micro-lesson learning workflow](00-start-here/CHAT-FIRST-WORKFLOW.md)** — our agreed study and GitHub publication process.
 1. [Learning method and mastery rubric](00-start-here/LEARNING-METHOD.md)
 2. [Complete indexed curriculum](00-start-here/CURRICULUM-MAP.md)
 3. [Study sequence](00-start-here/STUDY-PLAN.md)
@@ -35,6 +36,8 @@ This repository is the long-term home for preparing toward **Senior/Staff/Princi
 - [14 failure categories](03-failure-categories/README.md)
 - [Resource library](05-resources/README.md)
 - [Case-study design exercises](06-case-studies/README.md)
+
+**Active learning track:** [Domain 20 module roadmap](01-knowledge-domains/06-distributed-infrastructure/20-distributed-systems-and-data-consistency/MODULE-ROADMAP.md) → [Module 01: distributed-system fundamentals](01-knowledge-domains/06-distributed-infrastructure/20-distributed-systems-and-data-consistency/module-01-fundamentals/README.md).
 
 ## Working principles
 - Own the **outcome**, not merely a diagram or an AI-generated codebase.

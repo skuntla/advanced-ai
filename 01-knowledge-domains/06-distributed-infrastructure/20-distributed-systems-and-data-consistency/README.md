@@ -2,6 +2,14 @@
 
 > Pillar 6: Distributed Systems and AI Infrastructure · Status: **curriculum chapter / guided study** · Depth target: explain → design → challenge → prove.
 
+## Guided learning: start here
+
+- [Domain 20 ten-module roadmap](MODULE-ROADMAP.md) — ordered syllabus, questions and exit evidence.
+- [Module 01: Distributed-system fundamentals](module-01-fundamentals/README.md) — first interactive micro-lesson.
+- [Chat-first learning workflow](../../../00-start-here/CHAT-FIRST-WORKFLOW.md) — how we turn discussion into verified standalone documentation.
+
+**Status:** Domain outline established; Module 01 started on 2026-10-24. No learning/mastery claim is made until independently demonstrated.
+
 ## Why this matters
 Preserve correctness through partial failure while controlling latency, reliability and cost. In this domain, the architect needs more than terminology: they must choose an approach, specify its guarantees, and defend its limits.
 

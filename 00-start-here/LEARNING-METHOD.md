@@ -32,3 +32,7 @@ Before writing code, ask AI to: restate objectives and non-goals, inventory data
 
 ## Explanation writing standard
 Every explanation includes: **what / why / how / numbers / diagram / where it fails / how to verify / when not to use / authoritative resources**. Avoid misleading claims such as 'confidence=correctness', 'Kafka gives exactly-once side effects', or 'vector DB metadata alone guarantees access control'.
+
+## Operational workflow — chat first, GitHub after validation
+
+Our agreed teaching and publication process is now documented in [CHAT-FIRST-WORKFLOW.md](CHAT-FIRST-WORKFLOW.md): publish the syllabus, explore **one micro-concept per conversation**, adjust explanations based on questions, test changed assumptions, independently validate and commit a polished lesson after each microtopic. Never interpret the presence of a chapter as mastery. Domain 20 is the first application of this protocol.
